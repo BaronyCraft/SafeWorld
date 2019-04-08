@@ -1,0 +1,8 @@
+name: SafeWorld
+author: BaronyCraft
+description: Make one or more worlds completely safe to the player by cancelling every and all damage events while the player is in them
+version: 1.0.0
+api-version: 1.13
+main: de.guntram.bukkit.SafeWorld.Main
+commands:
+permissions:
